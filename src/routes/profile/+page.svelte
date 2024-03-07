@@ -1,7 +1,9 @@
-<section>
-    <div class="p-4 sm:ml-64">
-        <div class="p-4 border-2 border-gray-200 border-dashed rounded-lg dark:border-gray-700">
-           <div class="grid grid-cols-2 gap-4 mb-4">
+<section class="h-full">
+    <div class="p-4 sm:ml-64 h-full">
+        <div class="p-4 border-2 border-gray-200 border-dashed rounded-lg dark:border-gray-700 h-full">
+           <div class="grid grid-cols-2 gap-4 mb-4 h-full">
+
+                <!-- Image  -->
                 <div class=" rounded bg-gray-50 dark:bg-gray-800">
                     <div class="grid gap-4">
                         <div>
@@ -39,7 +41,7 @@
 
 
                 </div>
-
+                <!-- Detail Information -->
                 <div class=" rounded bg-gray-200 dark:bg-gray-800">
                     <div class="p-4"><span class="text-4xl font-serif">Details </span></div>
 
